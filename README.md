@@ -2,7 +2,7 @@
 Formulator - C Project
 This repository contains a Formulator program implemented in C, capable of performing calculations based on various mathematical and physics formulas. It provides a range of functions, each dedicated to specific mathematical and physics concepts, allowing users to calculate values based on given formulas.
 
-Mathematical Functions
+Mathematical Functions 
 - Basic Calculator: Performs basic mathematical calculations.
 - Triangle: Calculates properties and values related to triangles.
 - Angles: Calculates angles and their properties.
